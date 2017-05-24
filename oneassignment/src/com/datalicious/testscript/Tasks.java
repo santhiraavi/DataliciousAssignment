@@ -36,8 +36,9 @@ public class Tasks {
 			}			
 
 	//checking that request made to google analytics or host	
+	
 		
-	//I don't know the parameters dp and dt 
+	//I don't know tasj3 the parameters dp and dt 
 	
 	
 	}
