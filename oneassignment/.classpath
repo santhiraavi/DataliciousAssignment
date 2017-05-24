@@ -25,5 +25,7 @@
 	<classpathentry kind="lib" path="F:/selenium-2.53.1/libs/testng-6.9.9.jar" sourcepath="F:/TestNg/testng-6.0.jar"/>
 	<classpathentry kind="lib" path="F:/selenium-2.53.1/selenium-java-2.53.1.jar"/>
 	<classpathentry kind="lib" path="F:/selenium-2.53.1/selenium-java-2.53.1-srcs.jar"/>
+	<classpathentry kind="src" path="/ModularDriven"/>
+	<classpathentry kind="lib" path="F:/TestNg/testng-6.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
